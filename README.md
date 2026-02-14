@@ -1,0 +1,56 @@
+# Elton John – Candle In The Wind
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.99] Goodbye, Norma Jeane
+[00:10.14] Though I never knew you at all
+[00:13.33] You had the grace to hold yourself
+[00:16.77] While those around you crawled
+[00:21.85] They crawled out of the woodwork
+[00:25.87] And they whispered into your brain
+[00:29.04] They set you on the treadmill
+[00:32.07] And they made you change your name
+[00:37.88] And it seems to me you lived your life
+[00:41.63] Like a candle in the wind
+[00:45.68] Never knowing who to cling to
+[00:49.33] When the rain set in
+[00:53.09] And I would've liked to know you
+[00:56.46] But I was just a kid
+[00:59.44] Your candle burned out long before
+[01:02.94] Your legend ever did
+[01:18.86] Loneliness was tough
+[01:21.57] The toughest role you ever played
+[01:24.79] Hollywood created a superstar
+[01:28.10] And pain was the price you paid
+[01:33.20] Even when you died
+[01:37.23] Oh, the press still hounded you
+[01:40.18] All the papers had to say
+[01:43.26] Was that Marilyn was found in the nude
+[01:49.15] And it seems to me you lived your life
+[01:52.69] Like a candle in the wind
+[01:56.74] Never knowing who to cling to
+[02:00.14] When the rain set in
+[02:04.24] And I would've liked to know you
+[02:07.55] But I was just a kid
+[02:10.56] Your candle burned out long before
+[02:14.31] Your legend ever did
+[02:29.95] Goodbye, Norma Jeane
+[02:32.81] Though I never knew you at all
+[02:35.80] You had the grace to hold yourself
+[02:39.39] While those around you crawled
+[02:45.35] Goodbye, Norma Jeane
+[02:47.75] From the young man in the twenty second row
+[02:51.39] Who sees you as something more than sexual
+[02:54.61] More than just our Marilyn Monroe
+[03:00.52] And it seems to me you lived your life
+[03:04.04] Like a candle in the wind
+[03:07.97] Never knowing who to cling to
+[03:11.54] When the rain set in
+[03:15.39] And I would've liked to know you
+[03:19.00] But I was just a kid
+[03:21.72] Your candle burned out long before
+[03:25.63] Your legend ever did
+[03:31.47] Your candle burned out long before
+[03:35.25] Your legend ever did
+```
