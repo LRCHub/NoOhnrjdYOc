@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Candle In The Wind",
+  "base_artist": "Elton John",
+  "createdAt": "2026-02-14T20:58:56.020318Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Candle in the Wind",
+      "artist": "2CELLOS",
+      "has_synced": true,
+      "path": "select/01_Candle_in_the_Wind_2CELLOS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Candle In The Wind",
+      "artist": "Verschiedene",
+      "has_synced": false,
+      "path": "select/02_Candle_In_The_Wind_Verschiedene.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Candle In the Wind",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/03_Candle_In_the_Wind_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Candle In The Wind",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/04_Candle_In_The_Wind_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Candle in the Wind",
+      "artist": "Eric Donaldson",
+      "has_synced": true,
+      "path": "select/05_Candle_in_the_Wind_Eric_Donaldson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Candle In The Wind",
+      "artist": "Sandy Denny",
+      "has_synced": true,
+      "path": "select/06_Candle_In_The_Wind_Sandy_Denny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Candle in the Wind",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/07_Candle_in_the_Wind_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Candle In The Wind",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/08_Candle_In_The_Wind_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Candle In the wind",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/09_Candle_In_the_wind_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Candle In The Wind",
+      "artist": "Sandy Denny",
+      "has_synced": true,
+      "path": "select/10_Candle_In_The_Wind_Sandy_Denny.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Candle in the Wind",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/11_Candle_in_the_Wind_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Candle In The Wind",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/12_Candle_In_The_Wind_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Candle In The Wind",
+      "artist": "Udo Lindenberg",
+      "has_synced": true,
+      "path": "select/13_Candle_In_The_Wind_Udo_Lindenberg.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Candle in the Wind",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/pl_01_Candle_in_the_Wind_Elton_John.txt"
+    }
+  ]
+}
